@@ -15,6 +15,6 @@ Uttar Pradesh, Maharashtra, and Karnataka were the top spending states.
 Categories like Clothing & Apparel, Food, and Electronics saw the most sales.
 
 Tools & Libraries used:
-Google Colab, Python
-Pandas, NumPy
+Google Colab, Python,
+Pandas, NumPy,
 Matplotlib, Seaborn

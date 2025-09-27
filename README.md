@@ -5,6 +5,7 @@ In this project, I used Pandas, NumPy, Matplotlib, and Seaborn for data cleaning
 Key steps I worked on:
 Cleaned and prepared the dataset by handling missing values and dropping unnecessary columns.
 Explored data to understand customer demographics such as Gender, Age Group, State, Marital Status, Occupation, and Product Categories.
+
 Created visualizations to show top-spending groups, states with the highest sales, and most popular products.
 Compared sales across different customer segments to highlight patterns and trends.
 

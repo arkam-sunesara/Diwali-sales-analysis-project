@@ -17,4 +17,4 @@ Categories like Clothing & Apparel, Food, and Electronics saw the most sales.
 Tools & Libraries used:
 Google Colab, Python,
 Pandas, NumPy,
-Matplotlib, Seaborn
+Matplotlib, Seaborn.
